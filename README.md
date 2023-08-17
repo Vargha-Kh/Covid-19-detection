@@ -1,7 +1,16 @@
+# COVID-19 Detection with Active Learning
 
+## Project Overview:
+This repository serves as a hub for resources, code, and explanations related to COVID-19 detection leveraging active learning. Active learning, a powerful machine learning paradigm, plays a pivotal role in optimizing the labeling process, enhancing model performance, and making the most of limited labeled data.
+
+## Key Features:
+Showcases an active learning framework designed to significantly reduce the annotation burden in training COVID-19 detection models.
+Explores the synergy between machine learning and human expertise, where the model intelligently selects the most informative samples for labeling.
+Utilizes state-of-the-art deep learning architectures and image processing techniques for robust detection of COVID-19 cases from medical images.
+Offers a curated dataset containing diverse medical images for COVID-19, facilitating model training, validation, and experimentation.
+Encourages collaborative research and experimentation by providing a well-documented codebase and resources.
 
 ![The-active-learning-loop-In-active-machine-learning-data-from-experiments-informs-a](https://user-images.githubusercontent.com/69680607/182359622-76a4c70e-c834-478f-8449-74121c705c01.png)
-
 
 
 # Covid-19-detection
